@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="tx_bold_24">
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="tx_bold_20">
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="tx_bold_18">
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="tx_bold_14">
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="tx_bold_11">
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+    <style name="tx_reg_24">
+        <item name="fontFamily">@font/montserrat_regular</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="tx_reg_20">
+        <item name="fontFamily">@font/montserrat_regular</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="tx_reg_18">
+        <item name="fontFamily">@font/montserrat_regular</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="tx_reg_14">
+        <item name="fontFamily">@font/montserrat_regular</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="tx_reg_11">
+        <item name="fontFamily">@font/montserrat_regular</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+    <style name="tx_semi_bold_24">
+        <item name="fontFamily">@font/montserrat_semi_bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="tx_semi_bold_20">
+        <item name="fontFamily">@font/montserrat_semi_bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="tx_semi_bold_18">
+        <item name="fontFamily">@font/montserrat_semi_bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="tx_semi_bold_14">
+        <item name="fontFamily">@font/montserrat_semi_bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="tx_semi_bold_11">
+        <item name="fontFamily">@font/montserrat_semi_bold</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+</resources>
